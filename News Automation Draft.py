@@ -23,5 +23,5 @@ def _get_articles(params):
         print("Error fetching articles")
 
 if __name__ == "__main__":
-    get_articles_by_category("technology"))
+    get_articles_by_category("technology")
 
