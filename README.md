@@ -1,7 +1,7 @@
-# News Automation
+# News Automation (Unfinished)
 
 ## Overview
-News Automation is a Python-based solution designed to simplify the process of fetching and organizing top headlines from various news categories. Utilizing the power of the NewsAPI, this script offers an automated approach to gather updated news content from specified categories, focusing on Great Britain ('gb').
+News Automation is a Python-based solution designed to simplify the process of fetching and organizing top headlines from various news categories. Utilizing the power of the NewsAPI, this script offers an automated approach to gather updated news content from specified categories, focusing on Great Britain ('gb'). 
 
 ## Features
 
